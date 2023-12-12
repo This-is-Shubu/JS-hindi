@@ -5,11 +5,12 @@ accountCity = "dehradun"
 
 //const value can't be changed
 // accountId = "23415";
-console.table([accountEmail, accountId, accountPassword, accountId]);
-// accountEmail = "shubham@gmail.com";
-// accountPassword = "something";
-// accountCity = "roorkee"
 
+accountEmail = "shubham@gmail.com";
+accountPassword = "something";
+accountCity = "roorkee"
+
+console.table([accountEmail, accountId, accountPassword, accountCity]);
 
 // console.log(accountId);
 
