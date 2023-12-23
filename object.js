@@ -21,3 +21,8 @@ const firstObject = {
     work: "operator",
     marks: [63, 45, 76, 59, 64]
 }
+
+// console.log(firstObject['name']);
+// console.log(firstObject.work);
+// console.log(firstObject);
+console.log(firstObject.marks[1, 3]);
