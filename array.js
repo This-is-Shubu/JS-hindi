@@ -11,11 +11,8 @@ myArray.push("another element", 34)
 const newArray = [4, "amit", "rajneesh", 23, true]
 
 const concat = newArray.splice(1, 3)
-console.log(concat);
-console.log(newArray);
+// console.log(concat);
+// console.log(newArray);
 
-
-
-
-
-
+// console.log(myArray.includes("place"));
+console.log(myArray.findIndex());
