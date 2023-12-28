@@ -1,9 +1,9 @@
-// const newObject = {
-//     name: "rajneesh",
-//     age: 28,
-//     work: "bakchodi",
-//     cheli: 5
-// }
+const patient = {
+    name: "rajneesh",
+    age: 28,
+    work: "bakchodi",
+    cheli: 5
+}
 
 // console.log(newObject.cheli);
 
@@ -26,3 +26,10 @@ const firstObject = {
 // console.log(firstObject.work);
 // console.log(firstObject);
 console.log(firstObject.marks[1, 3]);
+
+console.log(Object.values(patient));
+console.log(Object.entries(patient));
+console.log(Object.keys(patient));
+
+
+
