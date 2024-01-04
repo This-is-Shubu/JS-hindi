@@ -2,7 +2,7 @@ const user = {
     name: "vijay",
     age: 32,
     printName() {
-        return console.log("print this name");
+        console.log("print this name");
     },
     obtainedMarks: [21, 40, 35, 28, 48]
 }
