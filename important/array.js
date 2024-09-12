@@ -24,3 +24,6 @@ console.log(array3);
 // console.log(array1.flat(2));
 
 // console.log(array1.flat(2).concat(array2));
+function toKnowType() {
+    console.log(typeof array1);
+}
